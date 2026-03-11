@@ -78,12 +78,16 @@ If you'd like to improve ARC Times, feel free to open an issue or submit a pull 
 
 ---
 
-## 📜 License
-
-MIT License
-
----
-
 ## 👨‍💻 Credits
 
 Developed for the **ARC Network ecosystem**.
+
+---
+
+## 🔗 Links 
+
+🐦 Follow updates on Twitter  
+https://twitter.com/wentyom
+
+🌍 Visit  
+https://ruvion.tech
