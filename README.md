@@ -1,46 +1,51 @@
-ARC Times
+📰 ARC Times
 
-📰 ARC Times is the official news and media platform built for the ARC Network ecosystem.
+The official media and news platform for the ARC Network ecosystem.
 
-The platform delivers the latest updates, ecosystem statistics, and multimedia content related to ARC Network development, blockchain activity, and community growth.
+ARC Times provides the latest updates, statistics, and media content related to the ARC Network, including ecosystem news, community growth, and blockchain activity.
 
-🚀 About
+🌐 Website
+https://arctimes.net/
 
-ARC Times serves as a central information hub for the ARC ecosystem.
-It brings together news, statistics, and media content to help the community stay informed about the progress of ARC Network.
+🚀 ARC Ecosystem
 
-The platform focuses on transparency, accessibility, and community-driven information.
+ARC Times is built to serve as the central information hub for the ARC Network community.
+
+The platform focuses on delivering transparent information, ecosystem updates, and multimedia content to keep the community informed about the development and progress of ARC Network.
 
 ✨ Features
 
-📰 Latest news and ecosystem updates
-📊 ARC Network statistics and analytics
-📷 Photos and media content
-🎥 Video updates and announcements
+📰 ARC ecosystem news and announcements
+📊 Network statistics and analytics
+📷 Photos and ecosystem media
+🎥 Video updates and project content
 🌍 Community-focused information hub
-📱 Responsive design for desktop and mobile
+📱 Responsive platform for all devices
 
-📊 ARC Ecosystem Statistics
-
-Example statistics displayed on the platform:
+📊 ARC Network Stats
 
 💰 $2.22B Investment
-👥 85K+ X (Twitter) Followers
+👥 85K+ X Followers
 🔗 15M+ Testnet Addresses
 ⛓️ 27M+ Total Blocks
 🔁 200M+ Total Transactions
 
-🌍 Vision
+🌐 Links & Community
 
-ARC Times aims to become the central media and information platform for the ARC Network ecosystem, providing reliable updates, transparent statistics, and community-driven content.
+🌍 Website
+https://arctimes.net/
+
+🐦 X (Twitter)
+https://x.com/
+
+💬 Community
+https://discord.gg/
+
+📢 ARC Network
+https://github.com/
 
 🤝 Contributing
 
 Contributions are welcome from the community.
 
-You can help improve the platform by suggesting features, reporting issues, or contributing improvements.
-
- Links & Community
-
-Follow updates on Twitter  https://twitter.com/wentyom
- Visit https://ruvion.tech
+If you would like to help improve ARC Times, feel free to open an issue or submit a pull request.
