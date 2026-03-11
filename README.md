@@ -70,22 +70,6 @@ Key ecosystem data and network metrics.
 
 ---
 
-## 🔗 Links & Community
-
-🌐 Website  
-https://arctimes.net/
-
-🐦 X (Twitter)  
-https://x.com/
-
-💬 Community  
-https://discord.gg/
-
-📂 ARC Ecosystem  
-https://github.com/
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome.
